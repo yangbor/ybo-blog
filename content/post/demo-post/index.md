@@ -10,4 +10,4 @@ image:
 ---
 photo photo
 
-!\[image](static/media/20200117-dsc02331.jpg)
+![](static/media/20200117-dsc02331.jpb)
