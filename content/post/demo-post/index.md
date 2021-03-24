@@ -8,8 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 photo photo
 
-static/media/20200117-dsc02331.jpg
+!\[image](static/media/20200117-dsc02331.jpg)
